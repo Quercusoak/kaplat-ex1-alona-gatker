@@ -1,0 +1,3 @@
+Create a new file called b.txt. 
+Fill it with some content (irrelevant) and commit it to the one-and-only branch, main. 
+Call the commit C2 (capital case)
